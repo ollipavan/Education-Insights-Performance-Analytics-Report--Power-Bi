@@ -1,4 +1,4 @@
-# 🛒 Education Insights & Performance Analytics Report
+# 🏫 Education Insights & Performance Analytics Report
 
 
 ## Report Preview
